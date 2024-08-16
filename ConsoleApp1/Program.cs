@@ -1,6 +1,18 @@
-﻿myMethod();
-
-void myMethod()
+﻿void myFirstMethod()
 {
-    Console.WriteLine("Now i have a method");
+    // method
+}
+
+void mySecondMethod()
+{
+    // method
+}
+void myThirdMethod()
+{
+    // method
+}
+
+void myFourthMethod()
+{
+    // method
 }
